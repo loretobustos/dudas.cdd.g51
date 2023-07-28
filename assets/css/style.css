@@ -1,0 +1,36 @@
+.caja1{
+    background-color: blue;
+    padding: 10px;
+}
+.caja2{
+    background-color: blueviolet;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+.imagen{
+    background-color: brown;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+}
+.texto{
+    background-color: chartreuse;
+    width: 30%;
+    font-size: 20px;
+}
+
+.hola{
+    background-color: aqua;
+    padding: 5em;
+    background-size:cover;
+    background-image: url("../../assets/img/descarga.png");
+    background-position:center;
+    height: 10em;
+    font-size: 3em;
+}
+.hola h1{
+    width: 50%;
+    background-color: blueviolet;
+}
